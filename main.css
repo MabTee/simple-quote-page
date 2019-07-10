@@ -55,8 +55,8 @@ style {
 }
 
 .left{
-  bottom: 150px;
-  margin-left: 200px;
+  bottom: 300px;
+  margin: auto;
   font-size: 1.5rem;
   position: absolute;
 }
